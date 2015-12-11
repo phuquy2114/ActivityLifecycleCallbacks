@@ -4,10 +4,6 @@ import android.app.Activity;
 import android.app.Application;
 import android.os.Bundle;
 
-/**
- * Copyright © 2015 AsianTech inc.
- * Created by Thang Truong on 9/17/15.
- */
 public class AppController extends Application {
 
     private AppStatus appStatus;
